@@ -4,7 +4,7 @@ A modern and calming **Yoga Website** designed and developed from scratch using 
 
 ## 🌐 Live Demo
 
-👉 **[View Live Website](YOUR-LIVE-DEMO-LINK)**
+👉 **[View Live Website]( https://nesasaeedi.github.io/yoga-website/)**
 
 ## 🌿 About The Project
 
